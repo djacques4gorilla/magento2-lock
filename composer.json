@@ -2,6 +2,7 @@
     "name": "snowio/magento2-lock",
     "license": "MIT",
     "description": "A Magento 2 module which provides a multi-server lock service",
+    "version": "1.3.0-dev",
     "type": "magento2-module",
     "authors": [
         {
